@@ -1,5 +1,3 @@
-# online-nomikai-mgr
-# test kodai Hello World !!
-# test arakawa
-# test version2 kodai Hello Sugiyama-san!!
-# test sugiyama
+# のみまね
+外出自粛期間をもっと楽しく
+オンライン飲み会をもっと楽しく
