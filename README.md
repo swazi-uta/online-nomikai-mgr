@@ -1,3 +1,3 @@
 # online-nomikai-mgr
 # test kodai Hello World !!
-test arakawa
+# test arakawa
